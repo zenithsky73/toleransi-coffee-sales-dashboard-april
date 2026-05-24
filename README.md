@@ -83,7 +83,7 @@ Menganalisis metode pembayaran yang paling dominan digunakan pelanggan.
 
 # 🖼️ Dashboard Preview
 
-Dashboard_Priview.pdf
+Dashboard_Priview.png
 
 ---
 
@@ -92,8 +92,8 @@ Dashboard_Priview.pdf
 ```bash
 coffee-shop-sales-dashboard/
 │
-├── Dashboard.pbix
-├── dashboard-preview.png
-├── presentation.pdf
-├── dataset.csv
+├── Coffee_Shop_Sales_April_2026.pbix
+├── Dashboard_Preview.png
+├── Report Sales April 2026.xlsx
+├── Toleransi Kopi Sales Performance April.pptx
 └── README.md
