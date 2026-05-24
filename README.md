@@ -83,7 +83,7 @@ Menganalisis metode pembayaran yang paling dominan digunakan pelanggan.
 
 # 🖼️ Dashboard Preview
 
-Dashboard_Priview.png
+![Dashboard Preview](Dashboard_Priview.png)
 
 ---
 
